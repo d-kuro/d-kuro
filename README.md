@@ -2,7 +2,7 @@
 
 Hello, I'm Dai Kurosawa. I work as an SRE in Tokyo.
 
-I love Kubernetes and Go!
+I Love Kubernetes and Go!
 
 ### 💬 Want to connect?
 
