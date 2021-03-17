@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm d-kuro. I work as an SRE in Tokyo.
+Hello, I'm d-kuro. I work as an Software Engineer in Tokyo.
 
 I Love Kubernetes and Go!
 
