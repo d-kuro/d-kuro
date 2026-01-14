@@ -1,4 +1,4 @@
-🍋 When life gives you lemons, make lemonade
+🍋 
 
 ## 💬 Want to connect?
 
